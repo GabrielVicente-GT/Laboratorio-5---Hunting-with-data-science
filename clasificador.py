@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import re
 import sklearn
-from six.moves import cPickle as pickle
+from six.moves import Pickle as pickle
 from sklearn import feature_extraction, tree, model_selection, metrics
 
 
